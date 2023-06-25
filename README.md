@@ -1,2 +1,2 @@
 # Story2
-A true story
+Just for practice Github
